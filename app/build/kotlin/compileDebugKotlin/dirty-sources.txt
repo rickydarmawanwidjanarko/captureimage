@@ -1,0 +1,2 @@
+E:\Ricky\Kuliah\Semester 5\PPB 2\UAS\CaptureImage\app\src\main\java\com\ricky\captureimage\activities\MainActivity.kt
+E:\Ricky\Kuliah\Semester 5\PPB 2\UAS\CaptureImage\app\src\main\java\com\ricky\captureimage\utils\GPSTracker.kt
